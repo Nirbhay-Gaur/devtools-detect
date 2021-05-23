@@ -13,3 +13,5 @@
 ## Caveats
 
 Doesn't work if DevTools is undocked and will show false positive if you toggle any kind of sidebar.
+
+## [Demo](https://nirbhay-gaur.github.io/devtools-detect/)
